@@ -15,7 +15,7 @@ De groene balken zijn de bewegende obstakels, de gele zijn de "destinations".
 
 5. Voeg een script aan Agent toe met inhoud zoals die te vinden is in de repo
 
-Zorg dat volgende hetzelfde is in de inspector view van agent:
+6. Zorg dat volgende hetzelfde is in de inspector view van agent:
 
 ![image](https://user-images.githubusercontent.com/114599071/205861645-2b35b553-a463-4c24-bc8b-a7bdf4ec3faa.png)
 
@@ -23,7 +23,12 @@ Zorg dat volgende hetzelfde is in de inspector view van agent:
 
 ![image](https://user-images.githubusercontent.com/114599071/205861731-f5f928ae-f988-4c62-b735-cce69f124480.png)
 
+7. Zorg dat volgende hetzelfde is in de inspector van Obstacle1 (snelle)
 
+![image](https://user-images.githubusercontent.com/114599071/205862188-f9ad6de1-83a9-4afe-997d-6fa5c8122267.png)
 
+8. Zorg dat volgende hetzelfde is in de inspector van Obstacle2 (trage):
+
+![image](https://user-images.githubusercontent.com/114599071/205861987-5382aad0-4936-49a6-8245-b42e2d3e429b.png)
 
 
